@@ -1,0 +1,4 @@
+com\pasteleria\milsabores_backend\repository\ProductoRepository.class
+com\pasteleria\milsabores_backend\controller\ProductoController.class
+com\pasteleria\milsabores_backend\model\Producto.class
+com\pasteleria\milsabores_backend\MilsaboresBackendApplication.class
